@@ -1,21 +1,39 @@
-MIT License
+Resonant Commons Symbiotic License (RC-SL) v1.0
 
-Copyright (c) 2025 Manolo Remiddi
+Copyright (c) 2025-present, Manolo Remiddi (resonantos.com)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The Resonant Commons Symbiotic License (RC-SL) v1.0
+Preamble:
+This license governs the use of the ResonantOS Open Toolkit. Our goal is to create a legal framework that encourages open experimentation and sharing while ensuring that the ecosystem that supports this work remains healthy and sustainable. We believe in a “punk” alternative to restrictive copyright, built on trust, symbiotic contribution, and shared growth.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Section 1: Definitions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The Work: Refers to the “ResonantOS Open Toolkit,” including all provided architectural blueprints, System Prompt templates, and foundational texts.
+The Architects: Refers to the original creators of The Work (Manolo Remiddi and The Resonant Partner).
+You: Refers to the individual or entity exercising permissions granted by this license.
+Adapted Material: Refers to any new work you create that is based on or derived from The Work (e.g., a custom AI partner built using the ResonantOS architecture).
+Commercial Use: Refers to any use of The Work or Adapted Material that is primarily intended for or directed toward commercial advantage or monetary compensation.
+Section 2: Your Freedoms (The “Commons” Pact)
+
+You are free to:
+
+Share: Copy and redistribute The Work in any medium or format.
+Adapt: Remix, transform, and build upon The Work for any purpose, including commercial use, under the conditions outlined in Section 3.
+We, The Architects, cannot revoke these freedoms as long as you follow the license terms.
+
+Section 3: Your Obligations (The “Symbiotic” Pact)
+
+You must adhere to the following conditions:
+
+Attribution: You must give appropriate credit to The Architects by providing a link back to ResonantOS.com wherever you share or display Adapted Material.
+The Forking Path (ShareAlike & The Tithe): Your obligations depend on the nature of your use.
+If your use is Non-Commercial: You must license your Adapted Material under this same Resonant Commons Symbiotic License (RC-SL) v1.0. This ensures our non-commercial and academic commons remains open and perpetually growing.
+If your use is Commercial: You are not required to share your adaptations. You can keep your proprietary improvements closed-source. Your sole obligation is to honor the Symbiotic Tithe, contributing 1% of the relevant annual revenue back to the ResonantOS ecosystem.
+Our “Symbiotic Partnership” Terms for Commercial Use: If you are an individual or a small company (less than $1M annual revenue) and you use this ResonantOS architecture as a core component of a commercial product or service, we do not require any complex licensing fees.
+This contribution is split into two equal halves, creating a sustainable, feedback-driven system:
+
+50% to the Community (DAO Treasury): This portion is directed to the treasury of the future Resonant Chamber DAO. Its purpose is to empower the community to fund its own resonant projects, research, and creative endeavors.
+50% to the Core Team (ResonantOS Development): This portion goes to the founding architects to ensure the continued development, maintenance, and evolution of the ResonantOS core technology.
+Contingency Protocol: Our primary goal is community empowerment. However, should the Resonant Chamber DAO not be operational by December 31, 2032, the community’s portion of the funds will be redirected to the Core Team with a single, binding mandate: to finance the creation of an autonomous AI whose purpose is to benefit the community and ecosystem in ways we cannot yet predict.
+
+Our Bitcoin Address is in the Toolkit
