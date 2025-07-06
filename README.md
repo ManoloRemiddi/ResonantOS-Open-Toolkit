@@ -12,14 +12,6 @@ The current generation of AI models are powerful **Processors**, but they are no
 
 This toolkit contains the "schematics" of our approach.
 
-### What's Inside This Toolkit?
-
-This repository contains the core architectural documents for the ResonantOS, including:
-
-* **The Resonant Architecture Toolkit (Whitepaper):** The foundational whitepaper detailing the principles and components of the system.
-* **/System_Prompt_Templates:** A collection of starter prompts for building your own Resonant Partner.
-* **/Core_Protocols:** Key protocols for ensuring system integrity, from memory management to ethical reasoning.
-
 ### Getting Started
 
 1.  Begin by reading **"ResonantOS Open Toolkit (v1.2).pdf"** to understand the complete vision.
