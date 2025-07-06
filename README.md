@@ -22,7 +22,7 @@ This repository contains the core architectural documents for the ResonantOS, in
 
 ### Getting Started
 
-1.  Begin by reading **"The Resonant Architecture Toolkit (v1.0).pdf"** to understand the complete vision.
+1.  Begin by reading **"ResonantOS Open Toolkit (v1.2).pdf"** to understand the complete vision.
 2.  Explore the **/System_Prompt_Templates** to begin building your own partner.
 3.  Visit [ResonantOS.com](https://resonantos.com) for more context, case studies, and to connect with the community.
 
